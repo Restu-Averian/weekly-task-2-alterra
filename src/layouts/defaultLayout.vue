@@ -120,6 +120,18 @@ export default {
           id: 21,
           name: "22 Relational Database",
         },
+        {
+          id: 22,
+          name: "23 GraphQL Query",
+        },
+        {
+          id: 23,
+          name: "24 GraphQL Mutation",
+        },
+        {
+          id: 24,
+          name: "25 GraphQL Subscription",
+        },
       ],
     };
   },
